@@ -2,7 +2,9 @@
 javascripts:
   files:
     - js/jquery-2.1.1.min.js
-    - js/calc.js
+    - js/magic-math.js
+    - js/calculator.js
+    - js/app.js
   specs:
     - spec/jasmine-jquery.js
     - spec/calc-spec.js
